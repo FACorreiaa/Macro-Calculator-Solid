@@ -5,7 +5,7 @@ import styles from './App.module.css';
 
 const App: Component = () => {
 	return (
-		<div class={styles.App}>
+		<div class="frappe">
 			<header class={styles.header}>
 				<img src={logo} class={styles.logo} alt="logo" />
 				<p>
@@ -18,7 +18,8 @@ const App: Component = () => {
 					rel="noopener noreferrer">
 					Learn Solid
 				</a>
-				<h1 class="text-3xl font-bold underline">Hello world!</h1>
+				<h1 class="text-3xl font-bold underline">AH AH</h1>{' '}
+				<h1 class=" text-ctp-pink">Hello world!</h1>
 			</header>
 		</div>
 	);

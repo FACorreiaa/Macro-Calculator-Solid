@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@catppuccin/tailwindcss": "^0.1.1",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
@@ -18,6 +19,7 @@
     "vite-plugin-solid": "^2.5.0"
   },
   "dependencies": {
-    "solid-js": "^1.6.10"
+    "solid-js": "^1.6.10",
+    "zod": "^3.21.0"
   }
 }
