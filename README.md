@@ -32,4 +32,7 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+
 # Macro-Calculator-Web
+
+Web version of the Macro Calculator CLI built with [Go](https://github.com/FACorreiaa/Macro-Calculator). Insert your data and get to know your calorie distribution depending on your objectives.
